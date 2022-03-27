@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **durgeshmishra6099@gmail.com**
 
-- ⚡ Fun fact **I Am Funny**
+- ⚡ Fun fact **Let's Do Some Code**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
