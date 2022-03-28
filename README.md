@@ -30,5 +30,3 @@
 <br/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=durgesh005&" alt="durgesh005" /></p>
 <br/>
-  
-[![durgesh005's github activity graph](https://activity-graph.herokuapp.com/graph?username=durgesh005&theme=react-dark)](https://github.com/durgesh005/github-readme-activity-graph)
