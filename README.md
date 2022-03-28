@@ -23,9 +23,6 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=durgesh005&show_icons=true&locale=en&layout=compact" alt="durgesh005" />
     <br/>
   </a>
-  
-  <br/>
-  <br/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Durgesh005&show_icons=true&locale=en" alt="durgesh005" /></p>
 <br/>
 <br/>
