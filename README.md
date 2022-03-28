@@ -25,8 +25,9 @@
   </a>
   
   <br/>
-  
+  <br/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Durgesh005&show_icons=true&locale=en" alt="durgesh005" /></p>
+<br/>
 <br/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=durgesh005&" alt="durgesh005" /></p>
 <br/>
