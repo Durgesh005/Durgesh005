@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=durgesh005&label=Profile%20views&color=0e75b6&style=flat" alt="durgesh005" /> </p>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Core Android**
 
 - 💬 Ask me about **Android**
 
